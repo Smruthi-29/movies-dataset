@@ -1,1 +1,5 @@
+openai
+tmdbsimple
+pandas
+scikit-learn
 streamlit
